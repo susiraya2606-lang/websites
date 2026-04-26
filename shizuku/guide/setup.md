@@ -1,4 +1,4 @@
-# User manual
+Vi# User manual
 
 [[toc]]
 
